@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe" alt="Project Banner">
+      <img src="https://raw.githubusercontent.com/adlichalbi/FlickFinder/main/public/banner.png" alt="Project Banner">
     </a>
   <br />
   
